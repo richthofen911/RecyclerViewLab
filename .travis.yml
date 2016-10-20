@@ -16,10 +16,10 @@ android:
     #- tools
 
     # The BuildTools version used by your project
-    - build-tools-23.0.3
+    - build-tools-24.0.3
 
     # The SDK version fused to compile your project
-    - android-23
+    - android-24
   licenses:
       - 'android-sdk-preview-license-52d11cd2'
       - 'android-sdk-license-c81a61d9'
